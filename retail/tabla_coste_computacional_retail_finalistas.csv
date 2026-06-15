@@ -1,0 +1,3 @@
+Modelo,Contexto,Tipo,Entrenamiento,Tiempo entrenamiento,Tiempo inferencia,MAE,RMSE,MASE,WQL
+Chronos-2,1456 días,Fundacional zero-shot,No aplica,No aplica,24.30 s,1.9384,3.4345,0.8294,0.3526
+TimeXer,728 días,Especialista supervisado,Sí,1 h 46 min 59 s,0.85 s,1.9647,3.5079,0.8353,0.3585
