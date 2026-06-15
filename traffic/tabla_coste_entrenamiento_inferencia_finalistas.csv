@@ -1,0 +1,3 @@
+Modelo,Contexto,Tipo,Entrenamiento,Tiempo entrenamiento,Tiempo inferencia test,Inferencia por ventana rolling,MAE,RMSE,MASE,WQL
+Chronos-2,1440 h,Fundacional zero-shot,No aplica,No aplica,1 h 48 min 57 s,110.80 s,124.53,241.86,0.5462,0.0701
+TimeXer,168 h,Especialista supervisado,Sí,59 min 17 s,57 s,0.97 s,156.37,271.14,0.696,0.0923
