@@ -1,0 +1,33 @@
+traffic/4-timexer-PL96-HH1440.ipynb
+  s_0710140c6f7e33::t_1673d0d08e32ba 1357,1464
+  s_0710140c6f7e33::t_7a537dd2fee02d 55-87
+traffic/4-timexer-PL96-HH504.ipynb
+  s_0710140c6f7e33::t_1673d0d08e32ba 1369,1430
+  h_ce647ac8f5b9e7 90,106,112-128,337,345
+  s_0710140c6f7e33::t_9ebf1010d9df1b 43-75,1477
+traffic/4-chronos-2-PL96-HH1440.ipynb
+  s_0710140c6f7e33::t_98227e8b6292cd 3010,4141-4224
+traffic/4-chronos-2-PL96-HH168.ipynb
+  s_0710140c6f7e33::t_bc6933d7411aec 2908,4037
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "8d6a4a6c3c8f60c52c99c2717137ef64430359c2",
+  "prompts": {},
+  "humans": {
+    "h_ce647ac8f5b9e7": {
+      "author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0710140c6f7e33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c1e79de-308a-4e5d-a79b-b20f4db8758e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  }
+}
