@@ -1,0 +1,19 @@
+retail/3-chronos2-1456H.ipynb
+  s_56991082437f12::t_8620cb6c0eed70 3297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "2382ea5c17e03b57926ed606ff330a4af69576d0",
+  "prompts": {},
+  "sessions": {
+    "s_56991082437f12": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "871f2623-a3f5-4b4d-aee0-33d883482ed8",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  }
+}
