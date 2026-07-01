@@ -1,0 +1,18 @@
+retail/3-chronos2-1092H.ipynb
+  h_ce647ac8f5b9e7 96-97,3240-3313
+retail/3-chronos2-728H.ipynb
+  h_ce647ac8f5b9e7 96-97,3258-3331
+retail/3-chronos2-1456H.ipynb
+  h_ce647ac8f5b9e7 96-97,3248-3251,3297-3367
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "5c29b3eda07ee9b3cd654794d3042a77cbca459b",
+  "prompts": {},
+  "humans": {
+    "h_ce647ac8f5b9e7": {
+      "author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  }
+}
