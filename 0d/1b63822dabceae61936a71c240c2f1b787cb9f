@@ -1,0 +1,27 @@
+retail/4-additional-graphs.ipynb
+  h_ce647ac8f5b9e7 17-19,21,300-306,361,394-395,404,411-414,423,500,502,691
+  s_4dca688ed47569::t_9a5df2781f42ec 410,415,996
+  s_4dca688ed47569::t_be1011ec6ac94f 416-417
+  s_4dca688ed47569::t_fc07288650b5fd 997-999
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0d1b63822dabceae61936a71c240c2f1b787cb9f",
+  "prompts": {},
+  "humans": {
+    "h_ce647ac8f5b9e7": {
+      "author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4dca688ed47569": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2a9e0a2-f265-45cf-b09a-6f7fd4034889",
+        "model": "claude-fable-5"
+      },
+      "human_author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  }
+}
