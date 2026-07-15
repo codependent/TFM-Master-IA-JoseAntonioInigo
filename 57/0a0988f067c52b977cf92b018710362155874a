@@ -1,0 +1,14 @@
+README.md
+  h_ce647ac8f5b9e7 49,52-57,60,83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "570a0988f067c52b977cf92b018710362155874a",
+  "prompts": {},
+  "humans": {
+    "h_ce647ac8f5b9e7": {
+      "author": "codependent <joseantonio.inigo@gmail.com>"
+    }
+  }
+}
