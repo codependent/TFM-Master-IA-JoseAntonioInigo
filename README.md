@@ -45,19 +45,19 @@ Predicción de la intensidad de tráfico horaria por sensor (variable objetivo `
 
 Predicción de demanda de productos sobre un subconjunto experimental de 500 series densas del *benchmark* M5 Forecasting Accuracy, con holdout de evaluación de 28 días.
 
-| Notebook | Propósito |
-|----------|-----------|
+| Notebook | Propósito                                                                                                 |
+|----------|-----------------------------------------------------------------------------------------------------------|
 | `1-dataset.ipynb` | Construcción del dataset M5 y generación de los CSV preprocesados (`m5_context.csv`, `m5_future.csv`, …). |
-| `2-eda.ipynb` | EDA sobre el subconjunto de 500 series densas usado en los experimentos. |
-| `3-chronos2-728H.ipynb` | Chronos-2 — ventana de contexto 728 horas. |
-| `3-chronos2-1092H.ipynb` | Chronos-2 — ventana de contexto 1092 horas. |
-| `3-chronos2-1456H.ipynb` | Chronos-2 — ventana de contexto 1456 horas. |
-| `3-timexer-728H.ipynb` | TimeXer — ventana de contexto 728 horas. |
-| `3-timexer-1092H.ipynb` | TimeXer — ventana de contexto 1092 horas. |
-| `3-timexer-1456H.ipynb` | TimeXer — ventana de contexto 1456 horas. |
-| `4-additional-graphs.ipynb` | Figuras de resultados globales y por serie. |
+| `2-eda.ipynb` | EDA sobre el subconjunto de 500 series densas usado en los experimentos.                                  |
+| `3-chronos2-728H.ipynb` | Chronos-2 — ventana de contexto 728 días.                                                                 |
+| `3-chronos2-1092H.ipynb` | Chronos-2 — ventana de contexto 1092 días.                                                               |
+| `3-chronos2-1456H.ipynb` | Chronos-2 — ventana de contexto 1456 días.                                                               |
+| `3-timexer-728H.ipynb` | TimeXer — ventana de contexto 728 días.                                                                  |
+| `3-timexer-1092H.ipynb` | TimeXer — ventana de contexto 1092 días.                                                                 |
+| `3-timexer-1456H.ipynb` | TimeXer — ventana de contexto 1456 días.                                                                 |
+| `4-additional-graphs.ipynb` | Figuras de resultados globales y por serie.                                                               |
 
-> **Nomenclatura**: el sufijo `728H` / `1092H` / `1456H` indica la ventana de contexto en horas.
+> **Nomenclatura**: el sufijo `728H` / `1092H` / `1456H` indica la ventana de contexto en días.
 
 ## Metodología de evaluación
 
@@ -80,5 +80,5 @@ Los notebooks de procesamiento (`1-*` y `2-*`) esperan los datos de origen en ca
 1. Situar los datos de origen en las carpetas `dataset/` correspondientes a cada dominio.
 2. Ejecutar los notebooks `1-*` y `2-*` en orden para generar los datasets procesados.
 3. Ejecutar los notebooks de experimentos (`3-*` / `4-*`) para reproducir las predicciones de cada modelo y ventana de contexto.
-4. Actualizara los notebooks de gráficas adicionales (`4-*` / `5-*`) con los resultados de los experimentos.
+4. Actualizar los notebooks de gráficas adicionales (`4-*` / `5-*`) con los resultados de los experimentos.
 5. Ejecutar los notebooks de gráficas adicionales (`4-*` / `5-*`) para generar las figuras de resultados.
